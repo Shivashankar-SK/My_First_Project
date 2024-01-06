@@ -2,7 +2,7 @@
 #define ADD_H_
 
 
-
+int add_fn(int,int);
 
 
 #endif

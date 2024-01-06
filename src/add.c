@@ -1,6 +1,6 @@
 #include<add.h>
 
-int main()
+int add_fn(int a, int b)
 {
-    return 1;
+    return(a+b);
 }
